@@ -1,0 +1,5 @@
+[report]
+omit =
+    */migrations/*
+    # omit anything in a .local directory anywhere
+    */.local/*
