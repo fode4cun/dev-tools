@@ -1,5 +1,7 @@
 [report]
 omit =
+    config/urls.py
+    manage.py
     */migrations/*
     # omit anything in a .local directory anywhere
     */.local/*
